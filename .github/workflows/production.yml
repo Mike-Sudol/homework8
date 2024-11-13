@@ -47,7 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: Mike-Sudol/is601homework8:latest
+          tags: ms2649/is601homework8:latest
 
           # Add other relevant build parameters here
-
